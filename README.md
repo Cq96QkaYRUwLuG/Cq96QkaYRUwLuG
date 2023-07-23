@@ -3,8 +3,24 @@
 <p>
 📂 作品: 待定
 <p>
-<div align="center">
-	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</div>
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/xyz/example.css">
+    <script src="https://cdn.jsdelivr.net/gh/xyz/example.js"></script>
+</head>
+<body>
+    <div class="card">
+        <div class="title">技能卡片</div>
+        <div class="skill">
+            <span>技术</span> <span>%50</span>
+        </div>
+        <div class="category">
+            <span>前端技术</span> <span>%50</span>
+        </div>
+        <div class="skill">
+            <span>知识</span> <span>%50</span>
+        </div>
+        <div class="category">
+            <span>后端技术</span> <span>%50</span>
+        </div>
+    </div>
+</body>
 
